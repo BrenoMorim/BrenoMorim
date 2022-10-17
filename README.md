@@ -5,9 +5,9 @@ Tenho 18 anos e atualmente estou trabalhando como professor de inglês na Wizard
 
 Sempre fui apaixonado por jogos, matemática, programação e ciência. Já consegui uma menção honrosa na OBMEP e comecei a estudar na Alura em 2021 durante a pandemia, desde então tenho estudado bastante e participado muito do fórum, ajudando sempre que possível. 
 
-### [Meu perfil da Alura](https://cursos.alura.com.br/user/brenomorim13)
-### [Minha Vitrine Dev](https://cursos.alura.com.br/vitrinedev/brenomorim13)
-
+#### [Meu perfil da Alura](https://cursos.alura.com.br/user/brenomorim13)
+#### [Minha Vitrine Dev](https://cursos.alura.com.br/vitrinedev/brenomorim13)
+#### Email para contato: brenomorim13@gmail.com
 ---
 
 ## Ferramentas e Tecnologias
@@ -25,14 +25,6 @@ Sempre fui apaixonado por jogos, matemática, programação e ciência. Já cons
   <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" />
   <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-</div>
-
-## Contatos
-
-<div>
-  <a href="https://instagram.com/breno.bosser" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brenomorim13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!--<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>-->
 </div>
 
 ### Algumas estatísticas
