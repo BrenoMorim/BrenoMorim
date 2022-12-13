@@ -1,7 +1,7 @@
 # Olá, me chamo Breno Morim! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-Tenho 18 anos e atualmente estou trabalhando como professor de inglês na Wizard no período da tarde e da noite, o que tem sido uma experiência ótimo e muito gratificante por poder colaborar com o sonho de várias pessoas! No momento busco um trabalho como desenvolvedor na parte da manhã, mas com a possibilidade de trabalhar em período integral nos próximos anos.
+Tenho 18 anos, sou professor de inglês na Wizard e estudo Sistemas de Informação na faculdade. Utilizo principalmente Java, JavaScript e python, desde back-end com Spring e Express, até front-end com React e Vue, mobile com ReactNative e Data Science com python. 
 
 Sempre fui apaixonado por jogos, matemática, programação e ciência. Já consegui uma menção honrosa na OBMEP e comecei a estudar na Alura em 2021 durante a pandemia, desde então tenho estudado bastante e participado muito do fórum, ajudando sempre que possível. 
 
