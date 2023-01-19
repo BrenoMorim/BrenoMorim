@@ -9,6 +9,8 @@ Sempre fui apaixonado por jogos, matemática, programação e ciência. Já cons
 
 ### [Minha Vitrine Dev](https://cursos.alura.com.br/vitrinedev/brenomorim13)
 
+### [Linkedin](https://www.linkedin.com/in/brenomorim/)
+
 #### Email para contato: brenomorim13@gmail.com
 
 #### WhatsApp: +55 (11) 97240-3198
