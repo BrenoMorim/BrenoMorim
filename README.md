@@ -5,9 +5,13 @@ Tenho 18 anos, sou professor de inglês na Wizard e estudo Sistemas de Informaç
 
 Sempre fui apaixonado por jogos, matemática, programação e ciência. Já consegui uma menção honrosa na OBMEP e comecei a estudar na Alura em 2021 durante a pandemia, desde então tenho estudado bastante e participado muito do fórum, ajudando sempre que possível. 
 
-#### [Meu perfil da Alura](https://cursos.alura.com.br/user/brenomorim13)
-#### [Minha Vitrine Dev](https://cursos.alura.com.br/vitrinedev/brenomorim13)
+### [Meu perfil da Alura](https://cursos.alura.com.br/user/brenomorim13)
+
+### [Minha Vitrine Dev](https://cursos.alura.com.br/vitrinedev/brenomorim13)
+
 #### Email para contato: brenomorim13@gmail.com
+
+#### WhatsApp: +55 (11) 97240-3198
 ---
 
 ## Ferramentas e Tecnologias
@@ -25,14 +29,6 @@ Sempre fui apaixonado por jogos, matemática, programação e ciência. Já cons
   <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" />
   <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-</div>
-
-### Algumas estatísticas
-
-<div>
-<a href="https://github.com/BrenoMorim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoMorim&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoMorim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
