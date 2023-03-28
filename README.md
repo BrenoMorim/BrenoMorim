@@ -1,9 +1,13 @@
 # Olá, me chamo Breno Morim! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-Sou professor de inglês na Wizard e estudo Análise e Desenvolvimento de Sistemas na faculdade. Utilizo principalmente Java, JavaScript e python, desde back-end com Spring e Express, até front-end com React e Vue, mobile com ReactNative e Data Science com python. 
+Sou um professor de inglês na Wizard e estudo Análise e Desenvolvimento de Sistemas na faculdade. Desde cedo, sempre fui apaixonado por jogos, matemática, programação e ciência. Em 2021, comecei a estudar na Alura durante a pandemia e desde então venho aprimorando meus conhecimentos em várias áreas, utilizando principalmente Java, JavaScript e Python.
 
-Sempre fui apaixonado por jogos, matemática, programação e ciência. Já consegui uma menção honrosa na OBMEP e comecei a estudar na Alura em 2021 durante a pandemia, desde então tenho estudado bastante e participado muito do fórum, ajudando sempre que possível e com mais de 70 publicações no fórum.
+No campo de back-end, tenho experiência em desenvolvimento com Spring e Express. Em front-end, trabalho com React e Vue. Além disso, já desenvolvi aplicativos mobile com React Native e tenho conhecimentos em Data Science com Python.
+
+Tenho orgulho de ter recebido uma menção honrosa na OBMEP e, desde que comecei a estudar na Alura, tenho me dedicado a ajudar outros alunos por meio do fórum. Já publiquei mais de 70 respostas, sempre buscando compartilhar meus conhecimentos e ajudar a resolver problemas.
+
+Estou sempre buscando novos desafios e aprimorando minhas habilidades em programação. Se você tem algum projeto interessante em que eu possa contribuir, não hesite em entrar em contato.
 
 ### [Meu perfil da Alura](https://cursos.alura.com.br/user/brenomorim13)
 
