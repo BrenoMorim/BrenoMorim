@@ -15,7 +15,7 @@ Estou sempre buscando novos desafios e aprimorando minhas habilidades em program
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/brenomorim/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>](mailto:brenomorim13@gmail.com)
-[<img src="https://img.shields.io/static/v1?label=Meu porfólio&message=Confira meus projetos&color=blueviolet&style=for-the-badge"/>](https://cursos.alura.com.br/vitrinedev/brenomorim13)
+[<img src="https://img.shields.io/static/v1?label=Meu porfólio&message=Confira meus projetos&color=blueviolet&style=for-the-badge"/>](https://portfolio-brenomorim.vercel.app/)
 [<img src="https://img.shields.io/static/v1?label=Perfil da Alura&message=Cursos que já realizei e participação no fórum&color=blue&style=for-the-badge"/>](https://cursos.alura.com.br/user/brenomorim13)
 
 ---
