@@ -9,7 +9,7 @@ Sou um professor de inglês na Wizard e estudo Análise e Desenvolvimento de Sis
 
 No campo de back-end, tenho experiência em desenvolvimento com Spring e Express. Em front-end, trabalho com React e Vue. Além disso, já desenvolvi aplicativos mobile com React Native e tenho conhecimentos em Data Science com Python.
 
-Tenho orgulho de ter recebido uma menção honrosa na OBMEP e, desde que comecei a estudar na Alura, tenho me dedicado a ajudar outros alunos por meio do fórum. Já publiquei mais de 70 respostas, sempre buscando compartilhar meus conhecimentos e ajudar a resolver problemas.
+Tenho orgulho de ter recebido uma menção honrosa na OBMEP e, desde que comecei a estudar na Alura, tenho me dedicado a ajudar outros alunos por meio do fórum. Já publiquei mais de 90 respostas, sempre buscando compartilhar meus conhecimentos e ajudar a resolver problemas.
 
 Estou sempre buscando novos desafios e aprimorando minhas habilidades em programação. Se você tem algum projeto interessante em que eu possa contribuir, não hesite em entrar em contato.
 
@@ -67,11 +67,5 @@ Estou sempre buscando novos desafios e aprimorando minhas habilidades em program
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-
----
-
-![Meu Status](https://github-readme-stats.vercel.app/api?username=BrenoMorim)
-
-![Gráfico de atividades](https://github-readme-activity-graph.cyclic.app/graph?username=BrenoMorim&theme=dracula)
 
 ---
