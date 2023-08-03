@@ -7,7 +7,7 @@
 
 Sou um professor de inglês na Wizard e estudo Análise e Desenvolvimento de Sistemas na faculdade. Desde cedo, sempre fui apaixonado por jogos, matemática, programação e ciência. Em 2021, comecei a estudar na Alura durante a pandemia e desde então venho aprimorando meus conhecimentos em várias áreas, utilizando principalmente Java, JavaScript e Python.
 
-No campo de back-end, tenho experiência em desenvolvimento com Spring e Express. Em front-end, trabalho com React e Vue. Além disso, já desenvolvi aplicativos mobile com React Native e tenho conhecimentos em Data Science com Python.
+No campo de back-end, tenho experiência em desenvolvimento com Spring e Express. Em front-end, trabalho com React e Vue. Além disso, já desenvolvi aplicativos mobile com React Native e tenho conhecimentos em Data Science com Python, Excel e Power BI.
 
 Tenho orgulho de ter recebido uma menção honrosa na OBMEP e, desde que comecei a estudar na Alura, tenho me dedicado a ajudar outros alunos por meio do fórum. Já publiquei mais de 90 respostas, sempre buscando compartilhar meus conhecimentos e ajudar a resolver problemas.
 
@@ -49,6 +49,7 @@ Estou sempre buscando novos desafios e aprimorando minhas habilidades em program
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F4D160?logo=power-bi&logoColor=white&style=for-the-badge)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white&style=for-the-badge)
