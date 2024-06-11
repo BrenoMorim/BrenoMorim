@@ -7,7 +7,7 @@
 
 Sou um desenvolvedor de software e professor de inglês na Wizard e estudo Análise e Desenvolvimento de Sistemas na faculdade. Desde cedo, sempre fui apaixonado por jogos, matemática, programação e ciência. Em 2021, comecei a estudar na Alura durante a pandemia e desde então venho aprimorando meus conhecimentos em várias áreas, utilizando principalmente Java, JavaScript e Python.
 
-Meu emprego principal é ser um desenvolvedor PJ na Telcomanager Technologies, trabalhando principalmente no projeto TelcoAnalytics. Nesse projeto trabalho com as tecnologias React, JavaScript, python, Flask, Java, Kafka, Druid e Postgres.
+Minha ocupação principal é ser um desenvolvedor PJ na Telcomanager Technologies, trabalhando principalmente no projeto TelcoAnalytics. Nesse projeto tenho contato com as tecnologias React, JavaScript, python, Flask, Java, Kafka, Druid e Postgres.
 
 No campo de back-end, tenho experiência em desenvolvimento com Spring e Express. Em front-end, trabalho com React e Vue. Além disso, já desenvolvi aplicativos mobile com React Native e tenho conhecimentos em Data Science com Python, Excel e Power BI.
 
